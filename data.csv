@@ -1,0 +1,34 @@
+﻿Gender,HourlyRate,JobRole,MaritalStatus,OverTime,MonthlyIncome
+Female,94,Sales Executive,Single,Yes,
+Male,61,Research Scientist,Married,No,5130
+,92,Laboratory Technician,Single,Yes,2090
+Female,56,Research Scientist,Married,Yes,2909
+Male,40,,,No,
+Male,79,Laboratory Technician,Single,p,3068
+Female,81,Laboratory Technician,Married,Yes,2670
+6,67,,Divorced,No,2693
+Male,44,Manufacturing Director,Single,No,9526
+Male,94,Healthcare Representative,Married,No,5237
+Male,84,Laboratory Technician,Married,No,
+0,49,Laboratory Technician,Single,Yes,4193
+Male,31,,Divorced,No,2911
+Male,93,Laboratory Technician,Divorced,No,
+,50,Laboratory Technician,Single,Yes,2028
+Female,51,Manufacturing Director,Divorced,,9980
+Male,80,Research Scientist,,Yes,3298
+Male,96,Laboratory Technician,Divorced,Yes,
+Female,78,Manager,Married,No,15427
+Male,45,,Single,Yes,3944
+Female,96,Manufacturing Director,Divorced,No,4011
+?,82,,Single,No,3407
+Female,53,Research Director,/,No,11994
+Male,96,Research Scientist,Single,,1232
+Male,83,Research Scientist,Single,No,
+Female,58,Manager,Divorced,No,19094
+Female,72,Research Scientist,Single,Yes,3919
+,48,Sales Executive,Married,,6825
+Female,42,Healthcare Representative,Married,No,10248
+Female,83,,Single,No,
+Male,78,Laboratory Technician,Single,No,2496
+Male,41,Healthcare Representative,Married,Yes,6465
+Female,53,Research Director,Single,No,2206
